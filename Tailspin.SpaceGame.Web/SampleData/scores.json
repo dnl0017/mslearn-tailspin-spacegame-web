@@ -13,12 +13,19 @@
     "gameMode": "Solo",
     "gameRegion": "NGC 1300"
   },
+  // {
+  //   "id": "3",
+  //   "profileId": "3",
+  //   "score": 221220,
+  //   "gameMode": "Duo",
+  //   "gameRegion": "Ring Nebula"
+  // },
   {
     "id": "3",
     "profileId": "3",
     "score": 221220,
     "gameMode": "Duo",
-    "gameRegion": "Ring Nebula"
+    "gameRegion": "Milky Way"
   },
   {
     "id": "4",
